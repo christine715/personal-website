@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Christine<br> Wun Ki SUEN
+title: Christine Wun Ki SUEN
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal academic website of Christine Wun Ki SUEN.
 author: Christine Wun Ki SUEN
