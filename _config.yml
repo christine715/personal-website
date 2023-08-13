@@ -34,8 +34,8 @@ title: Christine Wun Ki SUEN
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal academic website of Christine Wun Ki SUEN.
 author: Christine Wun Ki SUEN
-email: wkisuen@polyu.edu.hk
-avatar: assets/images/avatar2.jpg
+email: wkisuen@ubc.student.ca
+avatar: 
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "personal-website" # the subpath of your site, e.g. /blog
