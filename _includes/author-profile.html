@@ -34,10 +34,10 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       <li>
-        <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
-        <a href="{{ base_path }}/files/Christine_Suen_CV.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+        <a href="{{ base_path }}/files/Christine_Suen_CV.pdf" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-fw fa-file-pdf icon-pad-right" aria-hidden="true"></i>Resume
+        </a>
       </li>
-
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
