@@ -23,7 +23,6 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      <li><a href="/personal-website/files/Christine_Suen_CV.pdf">📄 Resume / CV</a></li>
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
@@ -34,6 +33,11 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
+      <li>
+        <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
+        <a href="{{ base_path }}/files/Christine_Suen_CV.pdf" target="_blank" rel="noopener noreferrer">Download Resume📄</a>
+      </li>
+
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
