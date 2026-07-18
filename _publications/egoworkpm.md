@@ -3,13 +3,11 @@ title: "EgoWorkPM: A Worker-Centric Approach for Activity-Level Progress Monitor
 collection: publications
 permalink: /publication/2026-06-01-egoworkpm
 excerpt: 'We propose a worker-centric framework for activity-level construction progress monitoring using egocentric vision.'
-date: 2026-06-01
-venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
+venue: 'CVPR Workshop on Computer Vision for the Built World, 2026'
 authors: '<strong>Christine W. K. Suen</strong> and Zhengbo Zou'
 image: /images/publications/egoworkpm.png
-paperurl: ''
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2026W/CV4AEC/html/Suen_EgoWorkPM_A_Worker-Centric_Approach_for_Activity-level_Progress_Monitoring_in_Construction_CVPRW_2026_paper.html'
 projecturl: ''
 videourl: ''
 codeurl: ''
-citation: 'Suen, C. W. K., &amp; Zou, Z. (2026). EgoWorkPM: A Worker-Centric Approach for Activity-Level Progress Monitoring in Construction via Egocentric Vision. CVPR, pp. 9472&ndash;9481.'
 ---
