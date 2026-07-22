@@ -10,21 +10,22 @@ I am a Ph.D. student at Columbia University, where I am advised by <a href="http
 
 Before starting my Ph.D., I received my M.A.Sc. in Civil Engineering from the University of British Columbia, where my research focused on egocentric vision for intelligent construction. I earned my B.Sc. in Geomatics from The Hong Kong Polytechnic University, where I worked on remote sensing.
 
+<!-- <div id="news"></div>
+
+## News
+
+- **July 2026** — Paper accepted at CVPR Workshop on Computer Vision for the Built World.
+- **March 2026** — Presented poster at IEEE HRI 2026, Edinburgh. -->
+
 <div id="publications"></div>
 
-## Publications
+## Selected Publications
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<div id="talks"></div>
 
-## Talks
-
-{% for post in site.talks reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 <div id="teaching"></div>
 
