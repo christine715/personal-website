@@ -8,6 +8,7 @@ authors: '<strong>Christine W. K. Suen</strong> and Zhengbo Zou'
 image: '/images/publications/prosocialrobot.png'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3776734.3794366'
 projecturl: 'https://christine715.github.io/Prosocial-Robot-/'
+videoembed: 'https://drive.google.com/file/d/1Ge84HtXSPxVpvqm0T_fLHxe12vniqd8Q/preview'
 videourl: ''
 codeurl: ''
 ---
