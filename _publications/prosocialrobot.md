@@ -7,7 +7,7 @@ venue: 'Human-Robot Interaction (HRI), 2026'
 authors: '<strong>Christine W. K. Suen</strong> and Zhengbo Zou'
 image: '/images/publications/prosocialrobot.png'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3776734.3794366'
-projecturl: ''
+projecturl: 'https://christine715.github.io/Prosocial-Robot-/'
 videourl: ''
 codeurl: ''
 ---
